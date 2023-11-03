@@ -1,6 +1,6 @@
 package ArsitekturOrganisasiKomputer;
 import java.util.*;
-
+// Malvinshah Haris Athala / 235150207111042 / TIF-C
 public class kalkulatorDesimalBinerHexa {
     public static void main(String[] args) {
         int pilihan = -1;
